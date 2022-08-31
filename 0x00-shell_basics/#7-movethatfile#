@@ -1,2 +1,5 @@
-#!bin/bash
+#!b
+in/
+
+dbash
 mv /tmp/betty /tmp/my_first_directory/betty
