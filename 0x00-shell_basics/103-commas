@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -dm
+ls -map | sort -d
+
